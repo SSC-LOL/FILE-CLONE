@@ -163,7 +163,7 @@ logo=("""\033[1;97m
                                                                 
 
 \33[1;37m----------------------------------------------
-→   Owner      :    PRINC LIMON
+→   Owner      : PRINC LIMON
 →   Facebook   : PRINC LIMON
 →   Github     :  SSS-LOL
 →   Tool Type  :  \x1b[1;91mFREE
