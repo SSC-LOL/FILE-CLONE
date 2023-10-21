@@ -167,7 +167,7 @@ logo=("""\033[1;97m
 →   Facebook   : PRINC LIMON
 →   Github     :  SSS-LOL
 →   Tool Type  :  \x1b[1;91mFREE
-\x1b[1;97m→   Version    :  10.1
+\x1b[1;97m→   Version    :  2.1
 \33[1;37m----------------------------------------------""")
 def linex():
 	print('\33[1;37m----------------------------------------------')
